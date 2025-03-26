@@ -8,6 +8,8 @@ Example use-case and flow-chart:
 
 * Turntable LP-Player -> Preamplifier -> ESP32 with I2S line level ADC -> WiFi -> Music Assistant -> Speakers
 
+What this would basically achieve is a network-attached stereo sound capture device for analogue HiFi sources.
+
 Note! Developer help wanted with ESPHome Audio ADC drivers and pipeline for streaming to Music Assistant.
 
 Current draft prototype is schematic PCB design in KiCad of development board with header for an ADC module.
